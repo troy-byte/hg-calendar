@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-26T20:30:19.678985Z",
+  "generated": "2026-03-26T20:35:18.179628Z",
   "date_range": {
     "start": "2026-03-26",
     "end": "2026-03-26"
@@ -286,12 +286,12 @@
       "category": "sales",
       "resource": "Johnny Van Wyk",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Jeff Nagarjun Bangolore | San Jose",
+      "label": "Sales Presentation | Jeff Nagarjun Bangalore | San Jose",
       "location": "San Jose",
       "start": "2026-03-26T19:30:00.000+0000",
       "end": "2026-03-26T21:30:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Jeff Nagarjun Bangolore",
+      "contact_name": "Jeff Nagarjun Bangalore",
       "related_name": "Jeff Nagarjun Bangolore-",
       "event_type": null
     },
