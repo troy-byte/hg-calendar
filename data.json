@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-02T19:15:20.565569Z",
+  "generated": "2026-04-02T19:20:20.138680Z",
   "date_range": {
     "start": "2026-04-02",
     "end": "2026-04-02"
@@ -181,7 +181,7 @@
       "label": "Service/C3 | 17738 | Stoneridge Bocce Maintenance - pleasanton - 2 days",
       "location": "Stoneridge Bocce Maintenance - pleasanton - 2 days",
       "start": "2026-04-02T17:00:00.000+0000",
-      "end": "2026-04-03T21:00:00.000+0000",
+      "end": "2026-04-02T21:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "17738",
