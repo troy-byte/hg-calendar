@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-02T16:10:18.685670Z",
+  "generated": "2026-04-02T16:15:19.441611Z",
   "date_range": {
     "start": "2026-04-02",
     "end": "2026-04-02"
@@ -127,7 +127,7 @@
       "end": "2026-04-02T18:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "Gary Gairaud",
-      "related_name": "",
+      "related_name": "Gary Gairaud-",
       "event_type": null
     },
     {
