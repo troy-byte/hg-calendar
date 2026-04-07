@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-07T19:20:19.031842Z",
+  "generated": "2026-04-07T19:25:19.484900Z",
   "date_range": {
     "start": "2026-04-07",
     "end": "2026-04-07"
@@ -29,20 +29,6 @@
   },
   "events": [
     {
-      "id": "00URb00000ONPSxMAP",
-      "category": "sales",
-      "resource": "Amber Bandanza",
-      "subject": "Sold Presentation",
-      "label": "Sold Presentation | Evelyn Prichard-",
-      "location": null,
-      "start": "2026-04-07T08:00:00.000+0000",
-      "end": "2026-04-07T08:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Evelyn Prichard-",
-      "event_type": null
-    },
-    {
       "id": "00URb00000OMyEDMA1",
       "category": "sales",
       "resource": "Chris Loeswick",
@@ -57,6 +43,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000ONnOqMAL",
+      "category": "sales",
+      "resource": "Tim Duggan",
+      "subject": "Sold Presentation",
+      "label": "Sold Presentation | Margaret Dowdy-",
+      "location": null,
+      "start": "2026-04-07T08:00:00.000+0000",
+      "end": "2026-04-07T08:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Margaret Dowdy-",
+      "event_type": null
+    },
+    {
       "id": "00URb00000ONWuEMAX",
       "category": "sales",
       "resource": "Ray Richards",
@@ -68,6 +68,20 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Michael Miller-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000ONPSxMAP",
+      "category": "sales",
+      "resource": "Amber Bandanza",
+      "subject": "Sold Presentation",
+      "label": "Sold Presentation | Evelyn Prichard-",
+      "location": null,
+      "start": "2026-04-07T08:00:00.000+0000",
+      "end": "2026-04-07T08:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Evelyn Prichard-",
       "event_type": null
     },
     {
@@ -281,6 +295,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000OAUqHMAX",
+      "category": "sales",
+      "resource": "Ray Richards",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Herbert Mims | El Cerrito",
+      "location": "El Cerrito",
+      "start": "2026-04-07T19:00:00.000+0000",
+      "end": "2026-04-07T21:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Herbert Mims",
+      "related_name": "Herbert Mims-",
+      "event_type": null
+    },
+    {
       "id": "00URb00000OEXmJMAX",
       "category": "sales",
       "resource": "Anthony Hall",
@@ -295,18 +323,18 @@
       "event_type": null
     },
     {
-      "id": "00URb00000OAUqHMAX",
-      "category": "sales",
-      "resource": "Ray Richards",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Herbert Mims | El Cerrito",
-      "location": "El Cerrito",
-      "start": "2026-04-07T19:00:00.000+0000",
-      "end": "2026-04-07T21:00:00.000+0000",
+      "id": "00URb00000NQJ8DMAX",
+      "category": "service",
+      "resource": "Service/C3",
+      "subject": "Service/C3",
+      "label": "Service/C3 | 17701 | San Jose",
+      "location": "San Jose",
+      "start": "2026-04-07T19:30:00.000+0000",
+      "end": "2026-04-07T22:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Herbert Mims",
-      "related_name": "Herbert Mims-",
-      "event_type": null
+      "contact_name": "",
+      "related_name": "17701",
+      "event_type": "Service"
     },
     {
       "id": "00URb00000N0jo1MAB",
@@ -323,18 +351,18 @@
       "event_type": null
     },
     {
-      "id": "00URb00000NQJ8DMAX",
-      "category": "service",
-      "resource": "Service/C3",
-      "subject": "Service/C3",
-      "label": "Service/C3 | 17701 | San Jose",
-      "location": "San Jose",
-      "start": "2026-04-07T19:30:00.000+0000",
+      "id": "00URb00000OKbgkMAD",
+      "category": "sales",
+      "resource": "Mike Wells",
+      "subject": "Self Generated",
+      "label": "Self Generated | Ruby Palmieri-BY #3 | Rodeo",
+      "location": "Rodeo",
+      "start": "2026-04-07T20:00:00.000+0000",
       "end": "2026-04-07T22:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "17701",
-      "event_type": "Service"
+      "related_name": "Ruby Palmieri-BY #3",
+      "event_type": null
     },
     {
       "id": "00URb00000OG7XaMAL",
@@ -362,20 +390,6 @@
       "is_all_day": false,
       "contact_name": "Ray Atkins",
       "related_name": "Ray Atkins-",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000OKbgkMAD",
-      "category": "sales",
-      "resource": "Mike Wells",
-      "subject": "Self Generated",
-      "label": "Self Generated | Ruby Palmieri-BY #3 | Rodeo",
-      "location": "Rodeo",
-      "start": "2026-04-07T20:00:00.000+0000",
-      "end": "2026-04-07T22:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Ruby Palmieri-BY #3",
       "event_type": null
     },
     {
