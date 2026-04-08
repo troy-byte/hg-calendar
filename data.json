@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-08T15:05:18.455833Z",
+  "generated": "2026-04-08T15:10:21.321749Z",
   "date_range": {
     "start": "2026-04-08",
     "end": "2026-04-08"
@@ -31,6 +31,20 @@
   },
   "events": [
     {
+      "id": "00URb00000OPRlZMAX",
+      "category": "sales",
+      "resource": "Tim Duggan",
+      "subject": "Sold Presentation",
+      "label": "Sold Presentation | Kim Ladd-",
+      "location": null,
+      "start": "2026-04-08T08:00:00.000+0000",
+      "end": "2026-04-08T08:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Kim Ladd-",
+      "event_type": null
+    },
+    {
       "id": "00URb00000OO7liMAD",
       "category": "sales",
       "resource": "Tim Duggan",
@@ -56,34 +70,6 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000ONYWJMA5",
-      "category": "installation",
-      "resource": "Creww 12",
-      "subject": "Creww 12",
-      "label": "Creww 12 | Shirley Vochatzer-Back Yard | Stockton - 324 sqft, removal, base, maxx blend, Camofill",
-      "location": "Stockton - 324 sqft, removal, base, maxx blend, Camofill",
-      "start": "2026-04-08T15:30:00.000+0000",
-      "end": "2026-04-09T23:30:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Shirley Vochatzer-Back Yard",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000OEyL3MAL",
-      "category": "sales",
-      "resource": "Sherrie Feinstein",
-      "subject": "Site Check",
-      "label": "Site Check | Brian Testa | San Francisco",
-      "location": "San Francisco",
-      "start": "2026-04-08T15:30:00.000+0000",
-      "end": "2026-04-08T16:30:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Brian Testa",
       "event_type": null
     },
     {
@@ -115,6 +101,34 @@
       "event_type": null
     },
     {
+      "id": "00URb00000OEyL3MAL",
+      "category": "sales",
+      "resource": "Sherrie Feinstein",
+      "subject": "Site Check",
+      "label": "Site Check | Brian Testa | San Francisco",
+      "location": "San Francisco",
+      "start": "2026-04-08T15:30:00.000+0000",
+      "end": "2026-04-08T16:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Brian Testa",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000ONYWJMA5",
+      "category": "installation",
+      "resource": "Creww 12",
+      "subject": "Creww 12",
+      "label": "Creww 12 | Shirley Vochatzer-Back Yard | Stockton - 324 sqft, removal, base, maxx blend, Camofill",
+      "location": "Stockton - 324 sqft, removal, base, maxx blend, Camofill",
+      "start": "2026-04-08T15:30:00.000+0000",
+      "end": "2026-04-09T23:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Shirley Vochatzer-Back Yard",
+      "event_type": null
+    },
+    {
       "id": "00URb00000NOMVCMA5",
       "category": "time_off",
       "resource": "Tim Duggan",
@@ -127,6 +141,48 @@
       "contact_name": "",
       "related_name": "",
       "event_type": null
+    },
+    {
+      "id": "00URb00000OGrtoMAD",
+      "category": "sales",
+      "resource": "Sheldon Santos",
+      "subject": "Self Generated",
+      "label": "Self Generated | Simren Buffington | Tracy-Sheldon",
+      "location": "Tracy-Sheldon",
+      "start": "2026-04-08T17:00:00.000+0000",
+      "end": "2026-04-08T19:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Simren Buffington",
+      "related_name": "Simren Buffington-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000N9ANtMAN",
+      "category": "service",
+      "resource": "Service/C3",
+      "subject": "Service/C3",
+      "label": "Service/C3 | 17587 | Takemoto / Santa Cruz / weed treatment",
+      "location": "Takemoto / Santa Cruz / weed treatment",
+      "start": "2026-04-08T17:00:00.000+0000",
+      "end": "2026-04-08T21:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "17587",
+      "event_type": "Service"
+    },
+    {
+      "id": "00URb00000N9RWnMAN",
+      "category": "service",
+      "resource": "Service/C4",
+      "subject": "Service/C4",
+      "label": "Service/C4 | 17672 | Quionones / Lafayette/ Peel back",
+      "location": "Quionones / Lafayette/ Peel back",
+      "start": "2026-04-08T17:00:00.000+0000",
+      "end": "2026-04-08T19:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "17672",
+      "event_type": "Service"
     },
     {
       "id": "00URb00000O7aH6MAJ",
@@ -157,31 +213,17 @@
       "event_type": "Service"
     },
     {
-      "id": "00URb00000N9ANtMAN",
-      "category": "service",
-      "resource": "Service/C3",
-      "subject": "Service/C3",
-      "label": "Service/C3 | 17587 | Takemoto / Santa Cruz / weed treatment",
-      "location": "Takemoto / Santa Cruz / weed treatment",
-      "start": "2026-04-08T17:00:00.000+0000",
-      "end": "2026-04-08T21:30:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "17587",
-      "event_type": "Service"
-    },
-    {
-      "id": "00URb00000OGrtoMAD",
+      "id": "00URb00000OFVyYMAX",
       "category": "sales",
-      "resource": "Sheldon Santos",
-      "subject": "Self Generated",
-      "label": "Self Generated | Simren Buffington | Tracy-Sheldon",
-      "location": "Tracy-Sheldon",
+      "resource": "Anthony Hall",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Marilyn Dolla | Danville-Costco-Anthony",
+      "location": "Danville-Costco-Anthony",
       "start": "2026-04-08T17:00:00.000+0000",
       "end": "2026-04-08T19:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Simren Buffington",
-      "related_name": "Simren Buffington-",
+      "contact_name": "Marilyn Dolla",
+      "related_name": "Marilyn Dolla-",
       "event_type": null
     },
     {
@@ -227,34 +269,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000N9RWnMAN",
-      "category": "service",
-      "resource": "Service/C4",
-      "subject": "Service/C4",
-      "label": "Service/C4 | 17672 | Quionones / Lafayette/ Peel back",
-      "location": "Quionones / Lafayette/ Peel back",
-      "start": "2026-04-08T17:00:00.000+0000",
-      "end": "2026-04-08T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "17672",
-      "event_type": "Service"
-    },
-    {
-      "id": "00URb00000OFVyYMAX",
-      "category": "sales",
-      "resource": "Anthony Hall",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Marilyn Dolla | Danville-Costco-Anthony",
-      "location": "Danville-Costco-Anthony",
-      "start": "2026-04-08T17:00:00.000+0000",
-      "end": "2026-04-08T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Marilyn Dolla",
-      "related_name": "Marilyn Dolla-",
-      "event_type": null
-    },
-    {
       "id": "00URb00000NgfEPMAZ",
       "category": "service",
       "resource": "Service/C4",
@@ -267,20 +281,6 @@
       "contact_name": "",
       "related_name": "17734",
       "event_type": "Assessment"
-    },
-    {
-      "id": "00URb00000OFrRCMA1",
-      "category": "sales",
-      "resource": "Call Center",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Andrew Krutz | Walnut Creek-Anthony-Costco",
-      "location": "Walnut Creek-Anthony-Costco",
-      "start": "2026-04-08T20:30:00.000+0000",
-      "end": "2026-04-08T22:30:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Andrew Krutz",
-      "related_name": "",
-      "event_type": null
     },
     {
       "id": "00URb00000O79wnMAB",
@@ -297,17 +297,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000ONRJRMA5",
+      "id": "00URb00000OFrRCMA1",
       "category": "sales",
-      "resource": "Mike Wells",
+      "resource": "Call Center",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Joseph and Wendy Cutrufelli III | Clayton",
-      "location": "Clayton",
-      "start": "2026-04-08T21:00:00.000+0000",
-      "end": "2026-04-08T23:00:00.000+0000",
+      "label": "Sales Presentation | Andrew Krutz | Walnut Creek-Anthony-Costco",
+      "location": "Walnut Creek-Anthony-Costco",
+      "start": "2026-04-08T20:30:00.000+0000",
+      "end": "2026-04-08T22:30:00.000+0000",
       "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Joseph and Wendy Cutrufelli III",
+      "contact_name": "Andrew Krutz",
+      "related_name": "",
       "event_type": null
     },
     {
@@ -325,6 +325,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000ONRJRMA5",
+      "category": "sales",
+      "resource": "Mike Wells",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Joseph and Wendy Cutrufelli III | Clayton",
+      "location": "Clayton",
+      "start": "2026-04-08T21:00:00.000+0000",
+      "end": "2026-04-08T23:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Joseph and Wendy Cutrufelli III",
+      "event_type": null
+    },
+    {
       "id": "00URb00000OONnFMAX",
       "category": "sales",
       "resource": "Clayton Johnson",
@@ -339,20 +353,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000O4LmWMAV",
-      "category": "time_off",
-      "resource": "Chris Loeswick",
-      "subject": "Off",
-      "label": "Off | hmb",
-      "location": "hmb",
-      "start": "2026-04-08T22:00:00.000+0000",
-      "end": "2026-04-09T00:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000FarlrMAB",
       "category": "time_off",
       "resource": "Amber Bandanza",
@@ -361,6 +361,20 @@
       "location": "Gilroy/Local Appts Only",
       "start": "2026-04-08T22:00:00.000+0000",
       "end": "2026-04-09T03:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000O4LmWMAV",
+      "category": "time_off",
+      "resource": "Chris Loeswick",
+      "subject": "Off",
+      "label": "Off | hmb",
+      "location": "hmb",
+      "start": "2026-04-08T22:00:00.000+0000",
+      "end": "2026-04-09T00:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
