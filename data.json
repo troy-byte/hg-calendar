@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-10T18:00:25.426317Z",
+  "generated": "2026-04-10T18:05:19.166124Z",
   "date_range": {
     "start": "2026-04-10",
     "end": "2026-04-10"
@@ -159,13 +159,13 @@
       "category": "sales",
       "resource": "Clayton Johnson",
       "subject": "Customer Meeting",
-      "label": "Customer Meeting | Bill Schrader- | Carmel",
+      "label": "Customer Meeting | Bill Schroeder- | Carmel",
       "location": "Carmel",
       "start": "2026-04-10T17:00:00.000+0000",
       "end": "2026-04-10T18:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "Bill Schrader-",
+      "related_name": "Bill Schroeder-",
       "event_type": null
     },
     {
