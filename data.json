@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-11T20:10:19.554215Z",
+  "generated": "2026-04-11T20:15:19.262422Z",
   "date_range": {
     "start": "2026-04-11",
     "end": "2026-04-11"
@@ -21,6 +21,20 @@
   },
   "events": [
     {
+      "id": "00URb00000OWhtdMAD",
+      "category": "sales",
+      "resource": "Amber Bandanza",
+      "subject": "Sold Presentation",
+      "label": "Sold Presentation | Theresa Sutton-",
+      "location": null,
+      "start": "2026-04-11T08:00:00.000+0000",
+      "end": "2026-04-11T08:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Theresa Sutton-",
+      "event_type": null
+    },
+    {
       "id": "00URb00000OWWqBMAX",
       "category": "sales",
       "resource": "Clayton Johnson",
@@ -32,20 +46,6 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Margie & Jason Wells-",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000MQ4JjMAL",
-      "category": "time_off",
-      "resource": "Sherrie Feinstein",
-      "subject": "Standard Time Off",
-      "label": "Standard Time Off | Off",
-      "location": "Off",
-      "start": "2026-04-11T15:00:00.000+0000",
-      "end": "2026-04-12T03:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
       "event_type": null
     },
     {
@@ -71,6 +71,20 @@
       "location": "hmb",
       "start": "2026-04-11T15:00:00.000+0000",
       "end": "2026-04-11T21:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000MQ4JjMAL",
+      "category": "time_off",
+      "resource": "Sherrie Feinstein",
+      "subject": "Standard Time Off",
+      "label": "Standard Time Off | Off",
+      "location": "Off",
+      "start": "2026-04-11T15:00:00.000+0000",
+      "end": "2026-04-12T03:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
