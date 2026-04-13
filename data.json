@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-13T19:35:18.245256Z",
+  "generated": "2026-04-13T19:40:18.630437Z",
   "date_range": {
     "start": "2026-04-13",
     "end": "2026-04-13"
@@ -50,6 +50,20 @@
       "is_all_day": true,
       "contact_name": "",
       "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000OZ0x0MAD",
+      "category": "sales",
+      "resource": "Sheldon Santos",
+      "subject": "Sold Presentation",
+      "label": "Sold Presentation | Rick Clarke-",
+      "location": null,
+      "start": "2026-04-13T08:00:00.000+0000",
+      "end": "2026-04-13T08:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Rick Clarke-",
       "event_type": null
     },
     {
@@ -137,9 +151,9 @@
       "event_type": null
     },
     {
-      "id": "00URb00000JhHqpMAF",
+      "id": "00U1S000008Qi6OUAS",
       "category": "time_off",
-      "resource": "Brian Todd",
+      "resource": "Amber Bandanza",
       "subject": "Standard Time Off",
       "label": "Standard Time Off | Off",
       "location": "Off",
@@ -151,14 +165,14 @@
       "event_type": null
     },
     {
-      "id": "00URb00000OVWNbMAP",
-      "category": "sales",
-      "resource": "Steven McIntire",
-      "subject": "Follow Up",
-      "label": "Follow Up | 5 dipsea dr stinson beach",
-      "location": "5 dipsea dr stinson beach",
+      "id": "00URb00000JhHqpMAF",
+      "category": "time_off",
+      "resource": "Brian Todd",
+      "subject": "Standard Time Off",
+      "label": "Standard Time Off | Off",
+      "location": "Off",
       "start": "2026-04-13T15:00:00.000+0000",
-      "end": "2026-04-14T06:00:00.000+0000",
+      "end": "2026-04-14T03:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
@@ -179,59 +193,17 @@
       "event_type": null
     },
     {
-      "id": "00U1S000008Qi6OUAS",
-      "category": "time_off",
-      "resource": "Amber Bandanza",
-      "subject": "Standard Time Off",
-      "label": "Standard Time Off | Off",
-      "location": "Off",
+      "id": "00URb00000OVWNbMAP",
+      "category": "sales",
+      "resource": "Steven McIntire",
+      "subject": "Follow Up",
+      "label": "Follow Up | 5 dipsea dr stinson beach",
+      "location": "5 dipsea dr stinson beach",
       "start": "2026-04-13T15:00:00.000+0000",
-      "end": "2026-04-14T03:00:00.000+0000",
+      "end": "2026-04-14T06:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000OVKuJMAX",
-      "category": "installation",
-      "resource": "Creww 12",
-      "subject": "Creww 12",
-      "label": "Creww 12 | Town Center Central Community Park - Dog Park - Mountain House | MOUNTAIN HOUSE - 26520 SQ FT, 2X4 NAILER BOARD,GOPHER GAURD,K9 GRASS",
-      "location": "MOUNTAIN HOUSE - 26520 SQ FT, 2X4 NAILER BOARD,GOPHER GAURD,K9 GRASS",
-      "start": "2026-04-13T15:30:00.000+0000",
-      "end": "2026-04-26T23:30:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Town Center Central Community Park - Dog Park - Mountain House",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000NbOkTMAV",
-      "category": "installation",
-      "resource": "Sheldons Landscaping 2",
-      "subject": "Sheldons Landscaping 2",
-      "label": "Sheldons Landscaping 2 | Carolyn Overturf-Front and Side Yard-Pavers | Twain Harte - Paver install only",
-      "location": "Twain Harte - Paver install only",
-      "start": "2026-04-13T15:30:00.000+0000",
-      "end": "2026-04-17T23:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Carolyn Overturf-Front and Side Yard-Pavers",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000OGiorMAD",
-      "category": "installation",
-      "resource": "Green Vision North Bay",
-      "subject": "Green Vision North Bay",
-      "label": "Green Vision North Bay | Alyssa Welling-Side Yard | Napa - 335 sqft, removal, base, Pacific Platinum, PPG, wonderfill, steel edging, extra labor,",
-      "location": "Napa - 335 sqft, removal, base, Pacific Platinum, PPG, wonderfill, steel edging, extra labor,",
-      "start": "2026-04-13T15:30:00.000+0000",
-      "end": "2026-04-16T23:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Alyssa Welling-Side Yard",
       "event_type": null
     },
     {
@@ -249,6 +221,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000OVKuJMAX",
+      "category": "installation",
+      "resource": "Creww 12",
+      "subject": "Creww 12",
+      "label": "Creww 12 | Town Center Central Community Park - Dog Park - Mountain House | MOUNTAIN HOUSE - 26520 SQ FT, 2X4 NAILER BOARD,GOPHER GAURD,K9 GRASS",
+      "location": "MOUNTAIN HOUSE - 26520 SQ FT, 2X4 NAILER BOARD,GOPHER GAURD,K9 GRASS",
+      "start": "2026-04-13T15:30:00.000+0000",
+      "end": "2026-04-26T23:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Town Center Central Community Park - Dog Park - Mountain House",
+      "event_type": null
+    },
+    {
       "id": "00URb00000OVEKGMA5",
       "category": "installation",
       "resource": "Crew 3",
@@ -260,6 +246,34 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Lynbrook HS - Spring Add-on",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000OGiorMAD",
+      "category": "installation",
+      "resource": "Green Vision North Bay",
+      "subject": "Green Vision North Bay",
+      "label": "Green Vision North Bay | Alyssa Welling-Side Yard | Napa - 335 sqft, removal, base, Pacific Platinum, PPG, wonderfill, steel edging, extra labor,",
+      "location": "Napa - 335 sqft, removal, base, Pacific Platinum, PPG, wonderfill, steel edging, extra labor,",
+      "start": "2026-04-13T15:30:00.000+0000",
+      "end": "2026-04-16T23:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Alyssa Welling-Side Yard",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000NbOkTMAV",
+      "category": "installation",
+      "resource": "Sheldons Landscaping 2",
+      "subject": "Sheldons Landscaping 2",
+      "label": "Sheldons Landscaping 2 | Carolyn Overturf-Front and Side Yard-Pavers | Twain Harte - Paver install only",
+      "location": "Twain Harte - Paver install only",
+      "start": "2026-04-13T15:30:00.000+0000",
+      "end": "2026-04-17T23:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Carolyn Overturf-Front and Side Yard-Pavers",
       "event_type": null
     },
     {
@@ -277,6 +291,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000OT6ozMAD",
+      "category": "installation",
+      "resource": "Sheldons Landscaping",
+      "subject": "Sheldons Landscaping",
+      "label": "Sheldons Landscaping | Brendan Cornies-Back Yard | Stockton - Cornies Pergola install only",
+      "location": "Stockton - Cornies Pergola install only",
+      "start": "2026-04-13T16:00:00.000+0000",
+      "end": "2026-04-15T23:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Brendan Cornies-Back Yard",
+      "event_type": null
+    },
+    {
       "id": "00URb00000NlcvuMAB",
       "category": "installation",
       "resource": "Bedrock Construction",
@@ -291,18 +319,18 @@
       "event_type": null
     },
     {
-      "id": "00URb00000OT6ozMAD",
-      "category": "installation",
-      "resource": "Sheldons Landscaping",
-      "subject": "Sheldons Landscaping",
-      "label": "Sheldons Landscaping | Brendan Cornies-Back Yard | Stockton - Cornies Pergola install only",
-      "location": "Stockton - Cornies Pergola install only",
-      "start": "2026-04-13T16:00:00.000+0000",
-      "end": "2026-04-15T23:00:00.000+0000",
+      "id": "00URb00000OURszMAH",
+      "category": "service",
+      "resource": "Service/C4",
+      "subject": "Service/C4",
+      "label": "Service/C4 | 17768 | Soquel-jeff Hodge-Assessment- Please call Mr Hodge 15 - 20 minutes before arriving",
+      "location": "Soquel-jeff Hodge-Assessment- Please call Mr Hodge 15 - 20 minutes before arriving",
+      "start": "2026-04-13T17:00:00.000+0000",
+      "end": "2026-04-13T18:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "Brendan Cornies-Back Yard",
-      "event_type": null
+      "related_name": "17768",
+      "event_type": "Assessment"
     },
     {
       "id": "00URb00000OIbWNMA1",
@@ -331,20 +359,6 @@
       "contact_name": "",
       "related_name": "17686",
       "event_type": "Service"
-    },
-    {
-      "id": "00URb00000OURszMAH",
-      "category": "service",
-      "resource": "Service/C4",
-      "subject": "Service/C4",
-      "label": "Service/C4 | 17768 | Soquel-jeff Hodge-Assessment- Please call Mr Hodge 15 - 20 minutes before arriving",
-      "location": "Soquel-jeff Hodge-Assessment- Please call Mr Hodge 15 - 20 minutes before arriving",
-      "start": "2026-04-13T17:00:00.000+0000",
-      "end": "2026-04-13T18:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "17768",
-      "event_type": "Assessment"
     },
     {
       "id": "00URb00000OVXUvMAP",
@@ -431,17 +445,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000OVc4nMAD",
+      "id": "00URb00000OXNRRMA5",
       "category": "sales",
       "resource": "Steven McIntire",
-      "subject": "Follow Up",
-      "label": "Follow Up | 17023 Summer Meadow Sonoma",
-      "location": "17023 Summer Meadow Sonoma",
+      "subject": "Self Generated",
+      "label": "Self Generated | Amy\u2019s Path | Sonoma",
+      "location": "Sonoma",
       "start": "2026-04-13T22:00:00.000+0000",
       "end": "2026-04-14T00:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "",
+      "related_name": "Amy\u2019s Path",
       "event_type": null
     },
     {
@@ -459,17 +473,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000OXNRRMA5",
+      "id": "00URb00000OVc4nMAD",
       "category": "sales",
       "resource": "Steven McIntire",
-      "subject": "Self Generated",
-      "label": "Self Generated | Amy\u2019s Path | Sonoma",
-      "location": "Sonoma",
+      "subject": "Follow Up",
+      "label": "Follow Up | 17023 Summer Meadow Sonoma",
+      "location": "17023 Summer Meadow Sonoma",
       "start": "2026-04-13T22:00:00.000+0000",
       "end": "2026-04-14T00:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "Amy\u2019s Path",
+      "related_name": "",
       "event_type": null
     },
     {
