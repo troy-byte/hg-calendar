@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-14T14:30:19.394302Z",
+  "generated": "2026-04-14T14:35:19.032330Z",
   "date_range": {
     "start": "2026-04-14",
     "end": "2026-04-14"
@@ -57,17 +57,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000OV1hyMAD",
-      "category": "time_off",
-      "resource": "Sherrie Feinstein",
-      "subject": "Standard Time Off",
-      "label": "Standard Time Off | OFF",
-      "location": "OFF",
-      "start": "2026-04-14T15:00:00.000+0000",
-      "end": "2026-04-15T03:00:00.000+0000",
+      "id": "00URb00000Ob7KrMAJ",
+      "category": "sales",
+      "resource": "Tim Duggan",
+      "subject": "Sold Presentation",
+      "label": "Sold Presentation | Gary and Sheila DeSantis-",
+      "location": null,
+      "start": "2026-04-14T08:00:00.000+0000",
+      "end": "2026-04-14T08:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "",
+      "related_name": "Gary and Sheila DeSantis-",
       "event_type": null
     },
     {
@@ -99,6 +99,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000OV1hyMAD",
+      "category": "time_off",
+      "resource": "Sherrie Feinstein",
+      "subject": "Standard Time Off",
+      "label": "Standard Time Off | OFF",
+      "location": "OFF",
+      "start": "2026-04-14T15:00:00.000+0000",
+      "end": "2026-04-15T03:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
       "id": "00URb00000OaMXFMA3",
       "category": "sales",
       "resource": "Tim Duggan",
@@ -110,20 +124,6 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000OYqKvMAL",
-      "category": "installation",
-      "resource": "Bedrock Construction",
-      "subject": "Bedrock Construction",
-      "label": "Bedrock Construction | Saul Rodriguez-Back Yard | Hayward - 447 sqft, removal, base, Pacific fescue, sand, river rock , steel",
-      "location": "Hayward - 447 sqft, removal, base, Pacific fescue, sand, river rock , steel",
-      "start": "2026-04-14T16:30:00.000+0000",
-      "end": "2026-04-15T23:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Saul Rodriguez-Back Yard",
       "event_type": null
     },
     {
@@ -141,6 +141,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000OYqKvMAL",
+      "category": "installation",
+      "resource": "Bedrock Construction",
+      "subject": "Bedrock Construction",
+      "label": "Bedrock Construction | Saul Rodriguez-Back Yard | Hayward - 447 sqft, removal, base, Pacific fescue, sand, river rock , steel",
+      "location": "Hayward - 447 sqft, removal, base, Pacific fescue, sand, river rock , steel",
+      "start": "2026-04-14T16:30:00.000+0000",
+      "end": "2026-04-15T23:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Saul Rodriguez-Back Yard",
+      "event_type": null
+    },
+    {
       "id": "00URb00000JxrCCMAZ",
       "category": "time_off",
       "resource": "Anthony Hall",
@@ -149,34 +163,6 @@
       "location": "Morgan Hill",
       "start": "2026-04-14T17:00:00.000+0000",
       "end": "2026-04-14T18:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000NJ3hmMAD",
-      "category": "service",
-      "resource": "Service/C3",
-      "subject": "Service/C3",
-      "label": "Service/C3 | 17619 | San Bruno - Robert Nolan - Weed Treatment",
-      "location": "San Bruno - Robert Nolan - Weed Treatment",
-      "start": "2026-04-14T17:00:00.000+0000",
-      "end": "2026-04-14T22:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "17619",
-      "event_type": "Service"
-    },
-    {
-      "id": "00URb00000N0jo2MAB",
-      "category": "time_off",
-      "resource": "Chris Loeswick",
-      "subject": "Off",
-      "label": "Off | hmb",
-      "location": "hmb",
-      "start": "2026-04-14T17:00:00.000+0000",
-      "end": "2026-04-14T22:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
@@ -211,20 +197,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000OYG2vMAH",
-      "category": "sales",
-      "resource": "Tim Duggan",
-      "subject": "Wrap-Up",
-      "label": "Wrap-Up | wrap up DeMaria Hollister",
-      "location": "wrap up DeMaria Hollister",
-      "start": "2026-04-14T17:00:00.000+0000",
-      "end": "2026-04-14T18:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000OYIJQMA5",
       "category": "sales",
       "resource": "Johnny Van Wyk",
@@ -236,6 +208,48 @@
       "is_all_day": false,
       "contact_name": "Stanley Mendoza",
       "related_name": "Stanley Mendoza-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000NJ3hmMAD",
+      "category": "service",
+      "resource": "Service/C3",
+      "subject": "Service/C3",
+      "label": "Service/C3 | 17619 | San Bruno - Robert Nolan - Weed Treatment",
+      "location": "San Bruno - Robert Nolan - Weed Treatment",
+      "start": "2026-04-14T17:00:00.000+0000",
+      "end": "2026-04-14T22:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "17619",
+      "event_type": "Service"
+    },
+    {
+      "id": "00URb00000N0jo2MAB",
+      "category": "time_off",
+      "resource": "Chris Loeswick",
+      "subject": "Off",
+      "label": "Off | hmb",
+      "location": "hmb",
+      "start": "2026-04-14T17:00:00.000+0000",
+      "end": "2026-04-14T22:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000OYG2vMAH",
+      "category": "sales",
+      "resource": "Tim Duggan",
+      "subject": "Wrap-Up",
+      "label": "Wrap-Up | wrap up DeMaria Hollister",
+      "location": "wrap up DeMaria Hollister",
+      "start": "2026-04-14T17:00:00.000+0000",
+      "end": "2026-04-14T18:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
       "event_type": null
     },
     {
@@ -295,20 +309,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000OVdthMAD",
-      "category": "sales",
-      "resource": "Sheldon Santos",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Kathryn Walker | Manteca",
-      "location": "Manteca",
-      "start": "2026-04-14T22:00:00.000+0000",
-      "end": "2026-04-15T00:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Kathryn Walker",
-      "related_name": "Kathryn Walker-",
-      "event_type": null
-    },
-    {
       "id": "00URb00000OSBfXMAX",
       "category": "sales",
       "resource": "Ray Richards",
@@ -320,6 +320,20 @@
       "is_all_day": false,
       "contact_name": "Maxie Hamilton",
       "related_name": "Maxie Hamilton-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000OVdthMAD",
+      "category": "sales",
+      "resource": "Sheldon Santos",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Kathryn Walker | Manteca",
+      "location": "Manteca",
+      "start": "2026-04-14T22:00:00.000+0000",
+      "end": "2026-04-15T00:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Kathryn Walker",
+      "related_name": "Kathryn Walker-",
       "event_type": null
     },
     {
