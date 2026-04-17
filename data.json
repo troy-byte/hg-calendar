@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-17T02:35:22.977917Z",
+  "generated": "2026-04-17T02:40:28.656623Z",
   "date_range": {
     "start": "2026-04-17",
     "end": "2026-04-17"
@@ -90,14 +90,14 @@
       "event_type": null
     },
     {
-      "id": "00URb00000NgZ4ZMAV",
+      "id": "00URb00000OPcDxMAL",
       "category": "time_off",
-      "resource": "Steve Meadows",
+      "resource": "Brian Todd",
       "subject": "Off",
-      "label": "Off",
-      "location": null,
+      "label": "Off | Sonora",
+      "location": "Sonora",
       "start": "2026-04-17T15:00:00.000+0000",
-      "end": "2026-04-17T23:00:00.000+0000",
+      "end": "2026-04-18T02:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
@@ -118,14 +118,14 @@
       "event_type": null
     },
     {
-      "id": "00URb00000OPcDxMAL",
+      "id": "00URb00000NgZ4ZMAV",
       "category": "time_off",
-      "resource": "Brian Todd",
+      "resource": "Steve Meadows",
       "subject": "Off",
-      "label": "Off | Sonora",
-      "location": "Sonora",
+      "label": "Off",
+      "location": null,
       "start": "2026-04-17T15:00:00.000+0000",
-      "end": "2026-04-18T02:00:00.000+0000",
+      "end": "2026-04-17T23:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
@@ -171,20 +171,6 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "John Hesse-Front Yard",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000ObslCMAR",
-      "category": "time_off",
-      "resource": "Clayton Johnson",
-      "subject": "Off",
-      "label": "Off | Hollister",
-      "location": "Hollister",
-      "start": "2026-04-17T16:00:00.000+0000",
-      "end": "2026-04-17T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
       "event_type": null
     },
     {
