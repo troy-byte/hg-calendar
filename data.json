@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-17T21:40:28.388741Z",
+  "generated": "2026-04-17T21:45:28.801344Z",
   "date_range": {
     "start": "2026-04-17",
     "end": "2026-04-17"
@@ -45,6 +45,20 @@
       "is_all_day": false,
       "contact_name": "Larry Meyer",
       "related_name": "Larry Meyer-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000OkPTqMAN",
+      "category": "sales",
+      "resource": "Mike Wells",
+      "subject": "Sold Presentation",
+      "label": "Sold Presentation | Jim and Dian Bechter-Back Yard",
+      "location": null,
+      "start": "2026-04-17T08:00:00.000+0000",
+      "end": "2026-04-17T08:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Jim and Dian Bechter-Back Yard",
       "event_type": null
     },
     {
@@ -104,20 +118,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000ObsYIMAZ",
-      "category": "time_off",
-      "resource": "Ray Richards",
-      "subject": "Off",
-      "label": "Off | Dixon",
-      "location": "Dixon",
-      "start": "2026-04-17T15:00:00.000+0000",
-      "end": "2026-04-18T04:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000OPcDxMAL",
       "category": "time_off",
       "resource": "Brian Todd",
@@ -126,6 +126,20 @@
       "location": "Sonora",
       "start": "2026-04-17T15:00:00.000+0000",
       "end": "2026-04-18T02:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000ObsYIMAZ",
+      "category": "time_off",
+      "resource": "Ray Richards",
+      "subject": "Off",
+      "label": "Off | Dixon",
+      "location": "Dixon",
+      "start": "2026-04-17T15:00:00.000+0000",
+      "end": "2026-04-18T04:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
@@ -213,20 +227,6 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "17547",
-      "event_type": "Service"
-    },
-    {
-      "id": "00URb00000NRCO3MAP",
-      "category": "service",
-      "resource": "Creww 16",
-      "subject": "Creww 16",
-      "label": "Creww 16 | 17380 | Dout / Morgan hill / Replace Turf",
-      "location": "Dout / Morgan hill / Replace Turf",
-      "start": "2026-04-17T17:00:00.000+0000",
-      "end": "2026-04-17T21:30:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "17380",
       "event_type": "Service"
     },
     {
@@ -328,6 +328,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000NRCO3MAP",
+      "category": "service",
+      "resource": "Creww 16",
+      "subject": "Creww 16",
+      "label": "Creww 16 | 17380 | Dout / Morgan hill / Replace Turf",
+      "location": "Dout / Morgan hill / Replace Turf",
+      "start": "2026-04-17T17:00:00.000+0000",
+      "end": "2026-04-17T21:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "17380",
+      "event_type": "Service"
+    },
+    {
       "id": "00URb00000O3R2iMAF",
       "category": "time_off",
       "resource": "Chris Loeswick",
@@ -370,6 +384,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000O4LmdMAF",
+      "category": "time_off",
+      "resource": "Chris Loeswick",
+      "subject": "Off",
+      "label": "Off | hmb",
+      "location": "hmb",
+      "start": "2026-04-17T22:00:00.000+0000",
+      "end": "2026-04-18T00:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
       "id": "00URb00000OChD4MAL",
       "category": "sales",
       "resource": "Anthony Hall",
@@ -392,20 +420,6 @@
       "location": "home by 3:30pm",
       "start": "2026-04-17T22:00:00.000+0000",
       "end": "2026-04-18T03:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000O4LmdMAF",
-      "category": "time_off",
-      "resource": "Chris Loeswick",
-      "subject": "Off",
-      "label": "Off | hmb",
-      "location": "hmb",
-      "start": "2026-04-17T22:00:00.000+0000",
-      "end": "2026-04-18T00:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
