@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-21T17:15:19.996252Z",
+  "generated": "2026-04-21T17:20:29.060596Z",
   "date_range": {
     "start": "2026-04-21",
     "end": "2026-04-21"
@@ -337,7 +337,7 @@
       "end": "2026-04-21T22:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "Bob Fahey",
-      "related_name": "",
+      "related_name": "Bob Fahey-",
       "event_type": null
     },
     {
