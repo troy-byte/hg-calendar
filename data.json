@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-24T14:45:20.151246Z",
+  "generated": "2026-04-24T14:50:19.123164Z",
   "date_range": {
     "start": "2026-04-24",
     "end": "2026-04-24"
@@ -8,6 +8,7 @@
     "sales": [
       "Amber Bandanza",
       "Anthony Hall",
+      "Brian Todd",
       "Chris Loeswick",
       "Clayton Johnson",
       "Johnny Van Wyk",
@@ -31,17 +32,17 @@
   },
   "events": [
     {
-      "id": "00URb00000NgZ4gMAF",
-      "category": "time_off",
-      "resource": "Steve Meadows",
-      "subject": "Off",
-      "label": "Off",
+      "id": "00URb00000Owu8sMAB",
+      "category": "sales",
+      "resource": "Brian Todd",
+      "subject": "Sold Presentation",
+      "label": "Sold Presentation | Renae Harryman-",
       "location": null,
-      "start": "2026-04-24T15:00:00.000+0000",
-      "end": "2026-04-24T23:00:00.000+0000",
+      "start": "2026-04-24T08:00:00.000+0000",
+      "end": "2026-04-24T08:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "",
+      "related_name": "Renae Harryman-",
       "event_type": null
     },
     {
@@ -59,17 +60,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000OukdTMAR",
-      "category": "installation",
-      "resource": "Green Vision North Bay",
-      "subject": "Green Vision North Bay",
-      "label": "Green Vision North Bay | Theresa Sutton-Back Yard | 548 Maxx Brand, Removal, Base, Optifill",
-      "location": "548 Maxx Brand, Removal, Base, Optifill",
-      "start": "2026-04-24T15:30:00.000+0000",
+      "id": "00URb00000NgZ4gMAF",
+      "category": "time_off",
+      "resource": "Steve Meadows",
+      "subject": "Off",
+      "label": "Off",
+      "location": null,
+      "start": "2026-04-24T15:00:00.000+0000",
       "end": "2026-04-24T23:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "Theresa Sutton-Back Yard",
+      "related_name": "",
       "event_type": null
     },
     {
@@ -87,17 +88,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000Ov6inMAB",
+      "id": "00URb00000OukdTMAR",
       "category": "installation",
-      "resource": "Bedrock Construction",
-      "subject": "Bedrock Construction",
-      "label": "Bedrock Construction | Margie & Jason Wells-Back Yard | Foster City - 318 sqft, removal, base, pacific fescue, weed barrier, optifill, steel",
-      "location": "Foster City - 318 sqft, removal, base, pacific fescue, weed barrier, optifill, steel",
-      "start": "2026-04-24T16:00:00.000+0000",
-      "end": "2026-04-24T23:30:00.000+0000",
+      "resource": "Green Vision North Bay",
+      "subject": "Green Vision North Bay",
+      "label": "Green Vision North Bay | Theresa Sutton-Back Yard | 548 Maxx Brand, Removal, Base, Optifill",
+      "location": "548 Maxx Brand, Removal, Base, Optifill",
+      "start": "2026-04-24T15:30:00.000+0000",
+      "end": "2026-04-24T23:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "Margie & Jason Wells-Back Yard",
+      "related_name": "Theresa Sutton-Back Yard",
       "event_type": null
     },
     {
@@ -112,6 +113,20 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "17836",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000Ov6inMAB",
+      "category": "installation",
+      "resource": "Bedrock Construction",
+      "subject": "Bedrock Construction",
+      "label": "Bedrock Construction | Margie & Jason Wells-Back Yard | Foster City - 318 sqft, removal, base, pacific fescue, weed barrier, optifill, steel",
+      "location": "Foster City - 318 sqft, removal, base, pacific fescue, weed barrier, optifill, steel",
+      "start": "2026-04-24T16:00:00.000+0000",
+      "end": "2026-04-24T23:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Margie & Jason Wells-Back Yard",
       "event_type": null
     },
     {
@@ -255,12 +270,12 @@
       "event_type": null
     },
     {
-      "id": "00URb00000OpF42MAF",
+      "id": "00URb00000HL6DyMAL",
       "category": "time_off",
-      "resource": "Johnny Van Wyk",
-      "subject": "Off",
-      "label": "Off | san jose",
-      "location": "san jose",
+      "resource": "Tim Duggan",
+      "subject": "Standard Time Off",
+      "label": "Standard Time Off | home by 3:30pm",
+      "location": "home by 3:30pm",
       "start": "2026-04-24T22:00:00.000+0000",
       "end": "2026-04-25T03:00:00.000+0000",
       "is_all_day": false,
@@ -283,12 +298,12 @@
       "event_type": null
     },
     {
-      "id": "00URb00000HL6DyMAL",
+      "id": "00URb00000OpF42MAF",
       "category": "time_off",
-      "resource": "Tim Duggan",
-      "subject": "Standard Time Off",
-      "label": "Standard Time Off | home by 3:30pm",
-      "location": "home by 3:30pm",
+      "resource": "Johnny Van Wyk",
+      "subject": "Off",
+      "label": "Off | san jose",
+      "location": "san jose",
       "start": "2026-04-24T22:00:00.000+0000",
       "end": "2026-04-25T03:00:00.000+0000",
       "is_all_day": false,
