@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-25T12:50:18.715290Z",
+  "generated": "2026-04-25T12:55:20.172024Z",
   "date_range": {
     "start": "2026-04-25",
     "end": "2026-04-25"
@@ -110,20 +110,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000OxXVBMA3",
-      "category": "sales",
-      "resource": "Tim Duggan",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Briana Zamora | San Jose",
-      "location": "San Jose",
-      "start": "2026-04-25T17:00:00.000+0000",
-      "end": "2026-04-25T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Briana Zamora",
-      "related_name": "Briana Zamora-",
-      "event_type": null
-    },
-    {
       "id": "00URb00000OxJonMAF",
       "category": "sales",
       "resource": "Johnny Van Wyk",
@@ -135,6 +121,20 @@
       "is_all_day": false,
       "contact_name": "Roland On",
       "related_name": "Roland On-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000OxXVBMA3",
+      "category": "sales",
+      "resource": "Tim Duggan",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Briana Zamora | San Jose",
+      "location": "San Jose",
+      "start": "2026-04-25T17:00:00.000+0000",
+      "end": "2026-04-25T19:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Briana Zamora",
+      "related_name": "Briana Zamora-",
       "event_type": null
     },
     {
@@ -180,17 +180,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000OxLqcMAF",
-      "category": "time_off",
-      "resource": "Johnny Van Wyk",
-      "subject": "Off",
-      "label": "Off | san jose",
-      "location": "san jose",
+      "id": "00URb00000OyoIfMAJ",
+      "category": "sales",
+      "resource": "Mike Wells",
+      "subject": "Self Generated",
+      "label": "Self Generated | Armando Godoy | Pittsburg",
+      "location": "Pittsburg",
       "start": "2026-04-25T19:00:00.000+0000",
-      "end": "2026-04-26T03:00:00.000+0000",
+      "end": "2026-04-25T21:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "",
+      "related_name": "Armando Godoy",
       "event_type": null
     },
     {
@@ -205,6 +205,20 @@
       "is_all_day": false,
       "contact_name": "Frank Robinson",
       "related_name": "Frank Robinson-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000OxLqcMAF",
+      "category": "time_off",
+      "resource": "Johnny Van Wyk",
+      "subject": "Off",
+      "label": "Off | san jose",
+      "location": "san jose",
+      "start": "2026-04-25T19:00:00.000+0000",
+      "end": "2026-04-26T03:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
       "event_type": null
     },
     {
@@ -236,20 +250,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000Otm4bMAB",
-      "category": "time_off",
-      "resource": "Mike Wells",
-      "subject": "Off",
-      "label": "Off | Brentwood",
-      "location": "Brentwood",
-      "start": "2026-04-25T21:00:00.000+0000",
-      "end": "2026-04-26T03:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000OsFx8MAF",
       "category": "sales",
       "resource": "Amber Bandanza",
@@ -258,6 +258,20 @@
       "location": "San Lorenzo",
       "start": "2026-04-25T21:00:00.000+0000",
       "end": "2026-04-25T22:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000Otm4bMAB",
+      "category": "time_off",
+      "resource": "Mike Wells",
+      "subject": "Off",
+      "label": "Off | Brentwood",
+      "location": "Brentwood",
+      "start": "2026-04-25T21:00:00.000+0000",
+      "end": "2026-04-26T03:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
