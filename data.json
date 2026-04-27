@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-27T18:35:19.618568Z",
+  "generated": "2026-04-27T18:40:19.764970Z",
   "date_range": {
     "start": "2026-04-27",
     "end": "2026-04-27"
@@ -8,6 +8,7 @@
     "sales": [
       "Amber Bandanza",
       "Anthony Hall",
+      "Brian Todd",
       "Chris Loeswick",
       "Clayton Johnson",
       "John Throne",
@@ -137,20 +138,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000P1DfxMAF",
-      "category": "sales",
-      "resource": "Ray Richards",
-      "subject": null,
-      "label": "",
-      "location": null,
-      "start": "2026-04-27T15:00:00.000+0000",
-      "end": "2026-04-28T03:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000OV1i7MAD",
       "category": "time_off",
       "resource": "Sherrie Feinstein",
@@ -165,11 +152,67 @@
       "event_type": null
     },
     {
-      "id": "00URb00000P1KhSMAV",
+      "id": "00URb00000NgZ4jMAF",
       "category": "time_off",
-      "resource": "Mike Wells",
+      "resource": "Steve Meadows",
+      "subject": "Off",
+      "label": "Off",
+      "location": null,
+      "start": "2026-04-27T15:00:00.000+0000",
+      "end": "2026-04-27T23:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000P0l0dMAB",
+      "category": "time_off",
+      "resource": "Brian Todd",
       "subject": "Standard Time Off",
       "label": "Standard Time Off",
+      "location": null,
+      "start": "2026-04-27T15:00:00.000+0000",
+      "end": "2026-04-28T03:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000P12RDMAZ",
+      "category": "sales",
+      "resource": "Clayton Johnson",
+      "subject": null,
+      "label": "",
+      "location": null,
+      "start": "2026-04-27T15:00:00.000+0000",
+      "end": "2026-04-28T03:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000P12REMAZ",
+      "category": "time_off",
+      "resource": "Clayton Johnson",
+      "subject": "Standard Time Off",
+      "label": "Standard Time Off",
+      "location": null,
+      "start": "2026-04-27T15:00:00.000+0000",
+      "end": "2026-04-28T03:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000P15XAMAZ",
+      "category": "sales",
+      "resource": "Steve Meadows",
+      "subject": null,
+      "label": "",
       "location": null,
       "start": "2026-04-27T15:00:00.000+0000",
       "end": "2026-04-28T03:00:00.000+0000",
@@ -207,65 +250,9 @@
       "event_type": null
     },
     {
-      "id": "00URb00000P15XBMAZ",
-      "category": "time_off",
-      "resource": "Steve Meadows",
-      "subject": "Standard Time Off",
-      "label": "Standard Time Off",
-      "location": null,
-      "start": "2026-04-27T15:00:00.000+0000",
-      "end": "2026-04-28T03:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000P1IpJMAV",
       "category": "sales",
       "resource": "Amber Bandanza",
-      "subject": null,
-      "label": "",
-      "location": null,
-      "start": "2026-04-27T15:00:00.000+0000",
-      "end": "2026-04-28T03:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000P15XAMAZ",
-      "category": "sales",
-      "resource": "Steve Meadows",
-      "subject": null,
-      "label": "",
-      "location": null,
-      "start": "2026-04-27T15:00:00.000+0000",
-      "end": "2026-04-28T03:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000P12REMAZ",
-      "category": "time_off",
-      "resource": "Clayton Johnson",
-      "subject": "Standard Time Off",
-      "label": "Standard Time Off",
-      "location": null,
-      "start": "2026-04-27T15:00:00.000+0000",
-      "end": "2026-04-28T03:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000P12RDMAZ",
-      "category": "sales",
-      "resource": "Clayton Johnson",
       "subject": null,
       "label": "",
       "location": null,
@@ -291,14 +278,56 @@
       "event_type": null
     },
     {
-      "id": "00URb00000NgZ4jMAF",
-      "category": "time_off",
-      "resource": "Steve Meadows",
-      "subject": "Off",
-      "label": "Off",
+      "id": "00URb00000P1DfxMAF",
+      "category": "sales",
+      "resource": "Ray Richards",
+      "subject": null,
+      "label": "",
       "location": null,
       "start": "2026-04-27T15:00:00.000+0000",
-      "end": "2026-04-27T23:00:00.000+0000",
+      "end": "2026-04-28T03:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000P1KhSMAV",
+      "category": "time_off",
+      "resource": "Mike Wells",
+      "subject": "Standard Time Off",
+      "label": "Standard Time Off",
+      "location": null,
+      "start": "2026-04-27T15:00:00.000+0000",
+      "end": "2026-04-28T03:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000P15XBMAZ",
+      "category": "time_off",
+      "resource": "Steve Meadows",
+      "subject": "Standard Time Off",
+      "label": "Standard Time Off",
+      "location": null,
+      "start": "2026-04-27T15:00:00.000+0000",
+      "end": "2026-04-28T03:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000P0l0cMAB",
+      "category": "sales",
+      "resource": "Brian Todd",
+      "subject": null,
+      "label": "",
+      "location": null,
+      "start": "2026-04-27T15:00:00.000+0000",
+      "end": "2026-04-28T03:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
@@ -319,34 +348,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000Oo9aCMAR",
-      "category": "installation",
-      "resource": "Green Vision-Ernesto",
-      "subject": "Green Vision-Ernesto",
-      "label": "Green Vision-Ernesto | Ravi Akkapeddi-Front Yard | San Jose - 198 sqft, removal, base, Coronado, aluminum, optifill neighboor with Won Chung",
-      "location": "San Jose - 198 sqft, removal, base, Coronado, aluminum, optifill neighboor with Won Chung",
-      "start": "2026-04-27T16:00:00.000+0000",
-      "end": "2026-04-27T23:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Ravi Akkapeddi-Front Yard",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000NjErGMAV",
-      "category": "installation",
-      "resource": "Swift Artificial Turf",
-      "subject": "Swift Artificial Turf",
-      "label": "Swift Artificial Turf | Hillary Paffenroth-Back Yard | Santa Rosa - 439 sqft, removal, base, pedigree, air drain, wonderfill",
-      "location": "Santa Rosa - 439 sqft, removal, base, pedigree, air drain, wonderfill",
-      "start": "2026-04-27T16:00:00.000+0000",
-      "end": "2026-04-27T23:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Hillary Paffenroth-Back Yard",
-      "event_type": null
-    },
-    {
       "id": "00URb00000OQXPAMA5",
       "category": "installation",
       "resource": "Creww 15",
@@ -361,6 +362,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000OxrSHMAZ",
+      "category": "installation",
+      "resource": "Green Vision North Bay",
+      "subject": "Green Vision North Bay",
+      "label": "Green Vision North Bay | Bay Club - Ross Valley | Kentfiled - 5400 sqft, removal, GG, PDS tiles, coronado pet, sand, special rubber ramp",
+      "location": "Kentfiled - 5400 sqft, removal, GG, PDS tiles, coronado pet, sand, special rubber ramp",
+      "start": "2026-04-27T16:00:00.000+0000",
+      "end": "2026-05-01T23:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Bay Club - Ross Valley",
+      "event_type": null
+    },
+    {
       "id": "00URb00000OfjMkMAJ",
       "category": "installation",
       "resource": "4 Seasons Greens",
@@ -372,6 +387,34 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "John Moore-Side Yard",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000OpeyXMAR",
+      "category": "sales",
+      "resource": "Sheldon Santos",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Bob Rycerski- | Livermore",
+      "location": "Livermore",
+      "start": "2026-04-27T16:00:00.000+0000",
+      "end": "2026-04-27T18:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Bob Rycerski-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000Oo9aCMAR",
+      "category": "installation",
+      "resource": "Green Vision-Ernesto",
+      "subject": "Green Vision-Ernesto",
+      "label": "Green Vision-Ernesto | Ravi Akkapeddi-Front Yard | San Jose - 198 sqft, removal, base, Coronado, aluminum, optifill neighboor with Won Chung",
+      "location": "San Jose - 198 sqft, removal, base, Coronado, aluminum, optifill neighboor with Won Chung",
+      "start": "2026-04-27T16:00:00.000+0000",
+      "end": "2026-04-27T23:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Ravi Akkapeddi-Front Yard",
       "event_type": null
     },
     {
@@ -403,31 +446,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000OpeyXMAR",
-      "category": "sales",
-      "resource": "Sheldon Santos",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Bob Rycerski- | Livermore",
-      "location": "Livermore",
-      "start": "2026-04-27T16:00:00.000+0000",
-      "end": "2026-04-27T18:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Bob Rycerski-",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000OxrSHMAZ",
+      "id": "00URb00000NjErGMAV",
       "category": "installation",
-      "resource": "Green Vision North Bay",
-      "subject": "Green Vision North Bay",
-      "label": "Green Vision North Bay | Bay Club - Ross Valley | Kentfiled - 5400 sqft, removal, GG, PDS tiles, coronado pet, sand, special rubber ramp",
-      "location": "Kentfiled - 5400 sqft, removal, GG, PDS tiles, coronado pet, sand, special rubber ramp",
+      "resource": "Swift Artificial Turf",
+      "subject": "Swift Artificial Turf",
+      "label": "Swift Artificial Turf | Hillary Paffenroth-Back Yard | Santa Rosa - 439 sqft, removal, base, pedigree, air drain, wonderfill",
+      "location": "Santa Rosa - 439 sqft, removal, base, pedigree, air drain, wonderfill",
       "start": "2026-04-27T16:00:00.000+0000",
-      "end": "2026-05-01T23:30:00.000+0000",
+      "end": "2026-04-27T23:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "Bay Club - Ross Valley",
+      "related_name": "Hillary Paffenroth-Back Yard",
       "event_type": null
     },
     {
@@ -445,48 +474,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000NNhYUMA1",
-      "category": "service",
-      "resource": "Service/C3",
-      "subject": "Service/C3",
-      "label": "Service/C3 | 17698 | Sacramento",
-      "location": "Sacramento",
-      "start": "2026-04-27T17:00:00.000+0000",
-      "end": "2026-04-27T20:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "17698",
-      "event_type": "Service"
-    },
-    {
-      "id": "00URb00000Ox7PSMAZ",
-      "category": "sales",
-      "resource": "Tim Duggan",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Hank Lee | Los Altos",
-      "location": "Los Altos",
-      "start": "2026-04-27T17:00:00.000+0000",
-      "end": "2026-04-27T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Hank Lee",
-      "related_name": "Hank Lee-",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000OoQHdMAN",
-      "category": "sales",
-      "resource": "Chris Loeswick",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Zuhayr Elahi | San Francisco",
-      "location": "San Francisco",
-      "start": "2026-04-27T17:00:00.000+0000",
-      "end": "2026-04-27T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Zuhayr Elahi",
-      "related_name": "Zuhayr Elahi-",
-      "event_type": null
-    },
-    {
       "id": "00URb00000NIGttMAH",
       "category": "service",
       "resource": "Service Cancelled",
@@ -499,6 +486,20 @@
       "contact_name": "",
       "related_name": "17689",
       "event_type": "Assessment"
+    },
+    {
+      "id": "00URb00000NNhYUMA1",
+      "category": "service",
+      "resource": "Service/C3",
+      "subject": "Service/C3",
+      "label": "Service/C3 | 17698 | Sacramento",
+      "location": "Sacramento",
+      "start": "2026-04-27T17:00:00.000+0000",
+      "end": "2026-04-27T20:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "17698",
+      "event_type": "Service"
     },
     {
       "id": "00URb00000OfVLYMA3",
@@ -515,6 +516,34 @@
       "event_type": "Service"
     },
     {
+      "id": "00URb00000OoQHdMAN",
+      "category": "sales",
+      "resource": "Chris Loeswick",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Zuhayr Elahi | San Francisco",
+      "location": "San Francisco",
+      "start": "2026-04-27T17:00:00.000+0000",
+      "end": "2026-04-27T19:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Zuhayr Elahi",
+      "related_name": "Zuhayr Elahi-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000Ox7PSMAZ",
+      "category": "sales",
+      "resource": "Tim Duggan",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Hank Lee | Los Altos",
+      "location": "Los Altos",
+      "start": "2026-04-27T17:00:00.000+0000",
+      "end": "2026-04-27T19:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Hank Lee",
+      "related_name": "Hank Lee-",
+      "event_type": null
+    },
+    {
       "id": "00URb00000OsrCoMAJ",
       "category": "sales",
       "resource": "Anthony Hall",
@@ -526,6 +555,20 @@
       "is_all_day": false,
       "contact_name": "Robert Rycerski",
       "related_name": "Robert Rycerski-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000OyxQoMAJ",
+      "category": "sales",
+      "resource": "Johnny Van Wyk",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Kim Le | San Jose",
+      "location": "San Jose",
+      "start": "2026-04-27T19:00:00.000+0000",
+      "end": "2026-04-27T21:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Kim Le",
+      "related_name": "Kim Le-",
       "event_type": null
     },
     {
@@ -543,20 +586,6 @@
       "event_type": "Assessment"
     },
     {
-      "id": "00URb00000OyxQoMAJ",
-      "category": "sales",
-      "resource": "Johnny Van Wyk",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Kim Le | San Jose",
-      "location": "San Jose",
-      "start": "2026-04-27T19:00:00.000+0000",
-      "end": "2026-04-27T21:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Kim Le",
-      "related_name": "Kim Le-",
-      "event_type": null
-    },
-    {
       "id": "00URb00000OADw3MAH",
       "category": "service",
       "resource": "Service/C3",
@@ -569,20 +598,6 @@
       "contact_name": "",
       "related_name": "17788",
       "event_type": "Service"
-    },
-    {
-      "id": "00URb00000NtFyrMAF",
-      "category": "service",
-      "resource": "Service Cancelled",
-      "subject": "Service Cancelled",
-      "label": "Service Cancelled | 17754 | Livermore-Assessment",
-      "location": "Livermore-Assessment",
-      "start": "2026-04-27T21:00:00.000+0000",
-      "end": "2026-04-27T22:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "17754",
-      "event_type": "Assessment"
     },
     {
       "id": "00URb00000OxqG7MAJ",
@@ -599,6 +614,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000NtFyrMAF",
+      "category": "service",
+      "resource": "Service Cancelled",
+      "subject": "Service Cancelled",
+      "label": "Service Cancelled | 17754 | Livermore-Assessment",
+      "location": "Livermore-Assessment",
+      "start": "2026-04-27T21:00:00.000+0000",
+      "end": "2026-04-27T22:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "17754",
+      "event_type": "Assessment"
+    },
+    {
       "id": "00URb00000OxmqsMAB",
       "category": "sales",
       "resource": "Ray Richards",
@@ -613,20 +642,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000O4LmjMAF",
-      "category": "time_off",
-      "resource": "Chris Loeswick",
-      "subject": "Off",
-      "label": "Off | hmb",
-      "location": "hmb",
-      "start": "2026-04-27T22:00:00.000+0000",
-      "end": "2026-04-28T00:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000OqqXlMAJ",
       "category": "sales",
       "resource": "Anthony Hall",
@@ -637,6 +652,20 @@
       "end": "2026-04-28T00:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "Janea Margelowsky",
+      "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000O4LmjMAF",
+      "category": "time_off",
+      "resource": "Chris Loeswick",
+      "subject": "Off",
+      "label": "Off | hmb",
+      "location": "hmb",
+      "start": "2026-04-27T22:00:00.000+0000",
+      "end": "2026-04-28T00:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
       "related_name": "",
       "event_type": null
     }
