@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-30T16:20:19.239162Z",
+  "generated": "2026-04-30T16:25:19.164971Z",
   "date_range": {
     "start": "2026-04-30",
     "end": "2026-04-30"
@@ -252,7 +252,7 @@
       "end": "2026-04-30T22:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "Cheng Wei Chiu",
-      "related_name": "",
+      "related_name": "Cheng Wei Chiu-",
       "event_type": null
     },
     {
