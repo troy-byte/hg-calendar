@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-01T05:50:19.491592Z",
+  "generated": "2026-05-01T05:55:19.224849Z",
   "date_range": {
     "start": "2026-05-01",
     "end": "2026-05-01"
@@ -271,8 +271,8 @@
       "category": "sales",
       "resource": "Amber Bandanza",
       "subject": "Wrap-Up",
-      "label": "Wrap-Up | Monte Sereno",
-      "location": "Monte Sereno",
+      "label": "Wrap-Up | San Jose",
+      "location": "San Jose",
       "start": "2026-05-01T21:30:00.000+0000",
       "end": "2026-05-01T22:00:00.000+0000",
       "is_all_day": false,
